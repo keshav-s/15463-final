@@ -1,0 +1,9 @@
+%YAML:1.0
+# This is the calibration config file for later use
+camW: 640
+camH: 480
+prjW: 1280
+prjH: 720
+boardSize: [7, 10]
+sqSize: 24.5
+sets: [1, 3, 4, 6]
